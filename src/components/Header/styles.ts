@@ -8,7 +8,7 @@ export const Content = styled.div `
 max-width: 1200px;
 //linha abaixo é para centralizar
 margin: 0 auto;
-padding: 2rem 1rem 12rem;
+padding: 2rem 3.5rem 12rem;
 /* background: var(--red); */
 //alinha ao centro e um do lado do outro
 display: flex;
